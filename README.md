@@ -4,6 +4,7 @@
 - 🏫 Generation SP
 - 😄 Pronouns: He/Ele
 
+
 <div align="left">
   <a href="https://github.com/rennanmendes">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rennanmendes&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
