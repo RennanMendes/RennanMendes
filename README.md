@@ -1,6 +1,6 @@
-### Oi, eu sou o Rennan Mendes!
+### Hi, I'm Rennan Mendes!
 
-- 🌱 Estudando Java Full Stack
+- 🌱 Learning Java Full Stack
 - 🏫 Generation SP
 - 😄 Pronouns: He/Ele
 
