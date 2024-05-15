@@ -13,7 +13,7 @@
   - Meu nome é Rennan.
   - Tenho 25 anos e moro em São Paulo - Brasil.
   - Estudante de Análise e Desenvolvimento de Sistemas. (2/5)
-  - Desenvolvedor Full Stack Júnior
+  - Desenvolvedor no Itaú Unibanco
 
 <br/>
 <br/>
