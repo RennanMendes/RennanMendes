@@ -11,8 +11,8 @@
   <img align="right" height="160em" src="./assets/img/undraw_programming_re_kg9v.svg"/>
 
   - Meu nome é Rennan.
-  - Tenho 25 anos e moro em São Paulo - Brasil.
-  - Estudante de Análise e Desenvolvimento de Sistemas. (2/5)
+  - Tenho 26 anos e moro em São Paulo - Brasil.
+  - Estudante de Análise e Desenvolvimento de Sistemas. (4/5)
   - Desenvolvedor no Itaú Unibanco
 
 <br/>
@@ -21,26 +21,19 @@
 
 <h2 align="center">Linguagens e ferramentas:</h2>
 
-
 <div align="center">    
   <img height="44em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java Icon" />
   <img height="44em" src="https://cdn.simpleicons.org/spring/6DB33F"/>
-  <img height="44em" src="https://cdn.simpleicons.org/nodedotjs/#339933"/>
+  <img height="44em" src="https://cdn.simpleicons.org/nodedotjs/339933"/>
   <img height="44em" src="https://cdn.simpleicons.org/mysql/4479A1"/>
   <img height="44em" src="https://cdn.simpleicons.org/postgresql/4169E1"/>
   <img height="44em" src="https://cdn.simpleicons.org/mongodb/47A248"/>
-  <img height="44em" src="https://cdn.simpleicons.org/postman/FF6C37"/>
-  <img height="44em" src="https://cdn.simpleicons.org/javascript/#F7DF1E"/>
-  <img height="44em" src="https://cdn.simpleicons.org/typescript/#3178C6"/>
   <img height="44em" src="https://cdn.simpleicons.org/swagger/85EA2D"/>
-  <img height="44em" src="https://cdn.simpleicons.org/junit5/#25A162"/>
-  <img height="44em" src="https://cdn.simpleicons.org/git/F05032"/>
-  <img height="44em" src="https://cdn.simpleicons.org/angular/#DD0031"/>
+  <img height="44em" src="https://cdn.simpleicons.org/junit5/25A162"/>
+  <img height="44em" src="https://cdn.simpleicons.org/angular/DD0031"/>
+  <img height="44em" src="https://cdn.simpleicons.org/typescript/3178C6"/>
   <img height="44em" src="https://cdn.simpleicons.org/html5/E34F26"/>
-  <img height="44em" src="https://cdn.simpleicons.org/css3/1572B6"/>
-  <img height="44em" src="https://cdn.simpleicons.org/sass/CC6699"/>
-  <img height="44em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-  <img height="44em" src="https://cdn.simpleicons.org/intellijidea/000000/FFFFFF"/>                         
+  <img height="44em" src="https://cdn.simpleicons.org/css3/1572B6">                         
 </div> 
 
 <br/>
@@ -84,7 +77,5 @@
     src="https://raw.githubusercontent.com/RennanMendes/RennanMendes/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
   </div>
 </td>
