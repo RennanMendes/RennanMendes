@@ -33,7 +33,8 @@
   <img height="44em" src="https://cdn.simpleicons.org/angular/DD0031"/>
   <img height="44em" src="https://cdn.simpleicons.org/typescript/3178C6"/>
   <img height="44em" src="https://cdn.simpleicons.org/html5/E34F26"/>
-  <img height="44em" src="https://cdn.simpleicons.org/css3/1572B6">                         
+  <img height="44em" src="https://cdn.simpleicons.org/css3/1572B6">  
+  <img height="44em" src="https://cdn.simpleicons.org/amazonwebservices/232F3E/FFFFFF">                          
 </div> 
 
 <br/>
